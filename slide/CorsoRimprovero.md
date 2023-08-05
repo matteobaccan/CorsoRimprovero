@@ -47,6 +47,16 @@ All'interno di queste slide voglio mostrarti come fare un rimprovero perfetto, u
 
 ---
 
+## Chi è Josè Mourinho
+
+José Mourinho è un allenatore di calcio portoghese. È considerato uno dei migliori allenatori di calcio di tutti i tempi.
+
+Il modo col quale Mourinho si approccia ai suoi giocatori è un esempio di come si dovrebbe fare un rimprovero perfetto.
+
+Queste slide derivano da un rimprovero di Mourinho effettuato ai suoi giocatori e ripreso dal video "José Mourinho - The Best Coach in the World" pubblicato su Amazon Prime Video.
+
+---
+
 ## 1 - atteggiamento positivo
 
 Partire con un complimento: prova a trovare qualcosa di positivo da dire sulla persona che stai rimproverando. Questo aiuterà a mettere la persona a proprio agio e a farla sentire più aperta a ricevere il feedback.
@@ -69,9 +79,11 @@ Dopo aver spiegato chi sei, puoi iniziare a dare il feedback. Inizia con un comp
 
 Dopo aver dato un complimento, puoi iniziare a dare la critica.
 
+Ad esempio, potresti dire: "Tuttavia, non hai fatto un buon lavoro con il progetto Y".
+
 ---
 
-## 5 - appello all'aspirazioe
+## 5 - appello all'aspirazione
 
 Dopo aver dato la critica, puoi iniziare a dare un appello all'aspirazione. Ad esempio, potresti dire: "Voglio che tu migliori le tue prestazioni perché voglio che tu abbia successo".
 
@@ -85,7 +97,9 @@ Dopo aver dato un appello all'aspirazione, puoi iniziare a dare suggerimenti su 
 
 ## 7 - il tema del rimorso
 
-Dopo aver chiesto alla persona se vuole scappare da qualcosa, puoi iniziare a parlare del tema del rimorso. Ad esempio, potresti dire: "Sei sicuro di voler scappare da qualcosa?".
+Il rimorso è un sentimento di rimpianto o di pentimento.
+
+... da rivedere ...
 
 ---
 
