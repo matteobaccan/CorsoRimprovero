@@ -3,7 +3,7 @@
 Come è possibile fare un rimprovero perfetto?
 Usiamo a la tecnica Mourinho.
 
-## Cos'è un riprovero
+## Cos'è un rimprovero
 
 Un rimprovero è un'espressione di disapprovazione o di biasimo. Può essere espresso in modi diversi, come una parola o un'azione, ma in generale è un modo per far capire a qualcuno che ha fatto qualcosa di sbagliato.
 
@@ -29,3 +29,5 @@ All'interno di queste slide voglio mostrarti come fare un rimprovero perfetto, u
 - conclusione
 
 [![Genera PDF](https://github.com/matteobaccan/CorsoRimprovero/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoRimprovero/actions/workflows/generatepdf.yml)
+
+__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/CorsoRimprovero/main/slide/CorsoRimprovero.pdf)__
