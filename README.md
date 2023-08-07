@@ -27,3 +27,5 @@ All'interno di queste slide voglio mostrarti come fare un rimprovero perfetto, u
 - descrizione del problema
 - soluzione
 - conclusione
+
+[![Genera PDF](https://github.com/matteobaccan/CorsoRimprovero/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoRimprovero/actions/workflows/generatepdf.yml)
